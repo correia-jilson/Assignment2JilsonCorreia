@@ -21,8 +21,8 @@ public class Driver {
 		System.out.println();
 
 		System.out.println("Using Interface -");  //displaying ZooAnimalisticAnimals derived from AnimalisticAPI   Interface Z
-		ZooAnimalisticAnimals zooAnamalisticAnimal = new ZooAnimalisticAnimals();
-		zooAnamalisticAnimal.animalPrint();
+		ZooAnimalisticAnimals zooAnimalisticAnimal = new ZooAnimalisticAnimals();
+		zooAnimalisticAnimal.animalPrint();
 		System.out.println();
 
 		System.out.println("Using Object Class -");  //displaying using object class ZooObjectAnimal  X+Y+Z
